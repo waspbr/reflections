@@ -30,3 +30,5 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	
+	automatic merging is very convenient and time saving, but it cannot deal with ambiguous code.
